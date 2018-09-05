@@ -1,21 +1,12 @@
-# vue-down
+<p align="center">
+  <img src="logo.png" width="350"><br>
+    VueDown is a web based markdown editor with live preview powered by <a href="http://vuejs.org">Vue.js</a>
+</p>
 
-## Project setup
-```
-yarn install
-```
+## Demo
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+A live demo can be found [here](https://vue-down.geoffselby.tech).
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+## License
 
-### Lints and fixes files
-```
-yarn run lint
-```
+VueDown is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
